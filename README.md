@@ -1,3 +1,3 @@
 # odin-recipes
 
-To be continued...
+Exercise to build a recipes website with HTML only. 
